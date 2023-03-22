@@ -8,7 +8,7 @@ const exampleEmbed = new EmbedBuilder()
 	.addFields(
 		{ name: '\u200B', value: '\u200B' },
 		{ name: '1ª Regra', value: 'Trate todos com respeito. Nenhum tipo de assédio, caça às bruxas, sexismo, racismo ou discurso de ódio será tolerado.', inline: true },
-		{ name: '2ª Regra', value: 'Nada de conteúdo com restrição de idade ou obsceno. Isso inclui texto, imagens ou links que contenham nudez, sexo, violência pesada ou conteúdo graficamente perturbador.', inline: true },
+		{ name: '2ª Regra', value: 'Nada de conteúdo com restrição de idade ou obsceno. Isso inclui texto, imagens, vídeos ou links que contenham nudez, sexo, violência pesada ou conteúdo graficamente perturbador.', inline: true },
 		{ name: '3ª Regra', value: 'É proibido fazer spam ou autopromoção (convites de servidor, anúncios, etc) sem permissão de um membro da equipe. Isso inclui mandar MDs para outros membros.', inline: true },
 		{ name: '\u200B', value: '\u200B' },
 		{ name: '4ª Regra', value: 'Se você vir algo que quebre as regras, ou algo que te faça sentir insegurança, avise a equipe. Queremos que este servidor seja um espaço acolhedor!', inline: true },
